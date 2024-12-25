@@ -1,0 +1,60 @@
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.exe.config
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.exe
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.pdb
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\bin\Debug\System.Data.SqlClient.dll
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\bin\Debug\System.Data.SqlClient.xml
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.AssemblyReference.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\AjustarVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\LoginForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII_Sistemas_Comp_Gerald_Blanco.Properties.Resources.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\RegistrarEmpleadoForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\RHForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.GenerateResource.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.CoreCompileInputs.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII S.91DE7A34.Up2Date
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.exe
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.pdb
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.exe.config
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.exe
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.pdb
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\bin\Debug\System.Data.SqlClient.dll
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\bin\Debug\System.Data.SqlClient.xml
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.AssemblyReference.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\AjustarVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\LoginForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII_Sistemas_Comp_Gerald_Blanco.Properties.Resources.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\RegistrarEmpleadoForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\RHForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.GenerateResource.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.CoreCompileInputs.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.CopyComplete
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.exe
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.pdb
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.exe.config
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.exe
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\bin\Debug\ExamII Sistemas Comp Gerald Blanco.pdb
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\bin\Debug\System.Data.SqlClient.dll
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\bin\Debug\System.Data.SqlClient.xml
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\AjustarVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\LoginForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII_Sistemas_Comp_Gerald_Blanco.Properties.Resources.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\RegistrarEmpleadoForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\RHForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.GenerateResource.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.CoreCompileInputs.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.CopyComplete
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.exe
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\ExamII Sistemas Comp Gerald Blanco SQL rev1 15pm\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.pdb
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.AjustarVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.ClienteForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\Presentation.Forms.EmpleadoForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.GestionVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.JefeForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.LoginForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII_Sistemas_Comp_Gerald_Blanco.Properties.Resources.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.RegistrarEmpleadoForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\Presentation.Forms.ReversionVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.RHForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\GestionRH.SolicitarVacacionesForm.resources
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.GenerateResource.cache
+C:\GB\UC\Carrera informatica\cursos\2023\Q3\Sistemas Computacionales\proyectos\exa final sistemas gerald blanco\ExamII Sistemas Comp Gerald Blanco\obj\Debug\ExamII Sistemas Comp Gerald Blanco.csproj.CoreCompileInputs.cache

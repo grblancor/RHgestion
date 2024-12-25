@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\vacacionesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:vacacionesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\rhform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:rhform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\rhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:rhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\rhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:rhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\registrarempleadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:registrarempleadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\registrarempleadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:registrarempleadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|c:\\gb\\uc\\carrera informatica\\cursos\\2023\\q3\\sistemas computacionales\\proyectos\\examii sistemas comp gerald blanco\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\archivomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:archivomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\ajustarvacacionesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:ajustarvacacionesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\ajustarvacacionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:ajustarvacacionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\ajustarvacacionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:ajustarvacacionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\registrarempleadoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:registrarempleadoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E06A3-7E93-4DF9-90D0-58EA1E1487FE}|ExamII Sistemas Comp Gerald Blanco.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 216,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArchivoManager.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\ArchivoManager.cs",
+              "RelativeDocumentMoniker": "ArchivoManager.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\ArchivoManager.cs",
+              "RelativeToolTip": "ArchivoManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:34:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:41:20.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AjustarVacacionesForm.cs [Design]",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\AjustarVacacionesForm.cs",
+              "RelativeDocumentMoniker": "AjustarVacacionesForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\AjustarVacacionesForm.cs [Design]",
+              "RelativeToolTip": "AjustarVacacionesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:14:42.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AjustarVacacionesForm.Designer.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\AjustarVacacionesForm.Designer.cs",
+              "RelativeDocumentMoniker": "AjustarVacacionesForm.Designer.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\AjustarVacacionesForm.Designer.cs",
+              "RelativeToolTip": "AjustarVacacionesForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:15:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VacacionesManager.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\VacacionesManager.cs",
+              "RelativeDocumentMoniker": "VacacionesManager.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\VacacionesManager.cs",
+              "RelativeToolTip": "VacacionesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:33:53.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrarEmpleadoForm.cs [Design]",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RegistrarEmpleadoForm.cs",
+              "RelativeDocumentMoniker": "RegistrarEmpleadoForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RegistrarEmpleadoForm.cs [Design]",
+              "RelativeToolTip": "RegistrarEmpleadoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:09:31.434Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:26:43.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AjustarVacacionesForm.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\AjustarVacacionesForm.cs",
+              "RelativeDocumentMoniker": "AjustarVacacionesForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\AjustarVacacionesForm.cs",
+              "RelativeToolTip": "AjustarVacacionesForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:14:50.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarEmpleadoForm.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RegistrarEmpleadoForm.cs",
+              "RelativeDocumentMoniker": "RegistrarEmpleadoForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RegistrarEmpleadoForm.cs",
+              "RelativeToolTip": "RegistrarEmpleadoForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:10:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrarEmpleadoForm.Designer.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RegistrarEmpleadoForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegistrarEmpleadoForm.Designer.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RegistrarEmpleadoForm.Designer.cs",
+              "RelativeToolTip": "RegistrarEmpleadoForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:10:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RHForm.Designer.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RHForm.Designer.cs",
+              "RelativeDocumentMoniker": "RHForm.Designer.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RHForm.Designer.cs",
+              "RelativeToolTip": "RHForm.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:37:59.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:36:15.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:31:03.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RHForm.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RHForm.cs",
+              "RelativeDocumentMoniker": "RHForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RHForm.cs",
+              "RelativeToolTip": "RHForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:28:00.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RHForm.cs [Design]",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RHForm.cs",
+              "RelativeDocumentMoniker": "RHForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\RHForm.cs [Design]",
+              "RelativeToolTip": "RHForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:27:57.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:25:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GB\\UC\\Carrera informatica\\cursos\\2023\\Q3\\Sistemas Computacionales\\proyectos\\ExamII Sistemas Comp Gerald Blanco\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:06:48.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
